@@ -1,0 +1,6 @@
+{
+  "name": "Thầy Nam - Website Cá nhân & Cổng Học thuật UEH",
+  "description": "Website cá nhân ThS. Nguyễn Phương Nam (Thầy Nam) - Giảng viên Khoa Quản trị UEH, Nghiên cứu khoa học, Tài liệu học tập, Đề thi, và Trợ lý học tập AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
